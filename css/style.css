@@ -4,9 +4,14 @@ body{
     color: aliceblue;
 }
 .navbar{
+    color: white;
     background-color: #088A29;
-    
 }
+
+.text{
+    color: whitesmoke;
+}
+
 
 .quem-somos{
     background-color: blue;
